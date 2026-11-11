@@ -1,0 +1,23 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AWS DevOps Project</title>
+    <style>
+        body {
+            font-family: Arial;
+            text-align: center;
+            background: #eaf2f8;
+            padding: 80px;
+        }
+        h1 {
+            color: #1565c0;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to AWS DevOps Project!</h1>
+    <h2>Application is Running Successfully</h2>
+    <p>Deployed using GitHub, EC2, Auto Scaling and Load Balancer.</p>
+</body>
+</html>
